@@ -1,0 +1,19 @@
+{
+  "name": "daniel-harper-rf-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "serve": "npx --yes serve build -p 3000"
+  },
+  "dependencies": {
+    "next": "15.5.18",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.81.0"
+  }
+}
